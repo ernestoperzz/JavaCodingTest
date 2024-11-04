@@ -30,7 +30,7 @@ private string productName;
 //add order to arraylist
         orders.add("Paolo, Milk, x2");
         orders.add("Leo, Still water, x1");
-        orders.add("Paolo, Oreo cookies, x4");
+        orders.add("Paolo, Oreo cookies, x5");
         orders.add("Paolo, Ice cream, x1");
         orders.add("Paolo, Coconut, x2");
 
